@@ -3,7 +3,7 @@ A Python console application that calculates total marks, percentage , and grade
 # Features
 -  calculate total marks 
 -  calculate percentage 
--  assigns grades (A+, A, B, C, Fail)
+-  assigns grades based on percentage (A+, A, B, C, Fail)
 -  Accepts marks for multiple subjects
   ## Langauage
   Python
