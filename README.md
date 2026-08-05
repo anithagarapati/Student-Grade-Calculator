@@ -5,7 +5,7 @@ A Python console application that calculates total marks, percentage , and grade
 -  calculate percentage 
 -  assigns grades based on percentage (A+, A, B, C, Fail)
 -  Accepts marks for multiple subjects
--  use conditional and logical operator (if, and)
+-  uses conditional and logical operator (if, and)
   ## Langauage
   Python
   ## Author 
